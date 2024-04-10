@@ -4,7 +4,7 @@ import { CRow, CCol,CCard,CCardHeader,CCardBody } from '@coreui/bootstrap-vue';
 <template>
     <CRow>
         <CCol md="12">
-            <p class="h2 text-center">2 divertidos ejercicios en VUE 3 usando composition API <img src="/src/assets/vue.svg"></p>
+            <p class="h2 text-center">Gilberto Gomez Jimenez<img src="/src/assets/vue.svg"></p>
         </CCol>
         <CCol md="6">
             <CCard class="border border-warning shadow mb-3">
